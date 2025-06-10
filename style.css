@@ -42,7 +42,7 @@ body {
 
 #home{
     background-color: darkgreen;
-    background-image: url(/images/Beautiful\ Nature\ Image.jpg);
+    background-image: url(images/Beautiful\ Nature\ Image.jpg);
     background-position: bottom center;
     background-repeat: no-repeat;
     background-size: cover;
